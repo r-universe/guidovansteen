@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dataframes2xls"]
 	path = dataframes2xls
 	url = https://github.com/cran/dataframes2xls
-	shallow = true
-	registered = true
